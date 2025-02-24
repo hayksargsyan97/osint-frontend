@@ -1,4 +1,4 @@
-# Domain Scanner Application
+# Osint Application
 
 ## Overview
 The **Osint Application** is a React-based frontend that allows users to initiate and track domain scans. The application interacts with a backend API to start a scan for a given domain and fetch scan results.
